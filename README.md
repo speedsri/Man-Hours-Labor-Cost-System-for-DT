@@ -13,7 +13,7 @@ Part of a larger suite that includes a Contractor Attendance System, a DT Employ
 | | |
 |---|---|
 | **Login** | **Dashboard** |
-| `![Login](screenshots/login.png)` | `![Dashboard](screenshots/login.png)` |
+| `![Login](screenshots/login.png)` | `![Dashboard](login.png)` |
 | **New Time Entry** | **Batch Entry** |
 | `![Time Entry](screenshots/time-entry.png)` | `![Batch Entry](screenshots/batch-entry.png)` |
 | **Browse Entries** | **Run Calculation** |
